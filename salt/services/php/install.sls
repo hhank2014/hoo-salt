@@ -17,19 +17,19 @@ php_install:
       - php
       - php-fpm
       - php-devel
-      - php-common 
+      - php-common
       - php-embedded
-      - php-opcache 
-      - php-cli 
-      - php-gd 
+      - php-opcache
+      - php-cli
+      - php-gd
       - php-gmp
       - php-mbstring
       - php-mysqlnd
       - php-pecl-mcrypt
       - php-pecl-redis5
-	  - php-soap
-	  - php-json
-	  - php-bcmath
-	  - php-intl
-	  - php-xml
-	  - php-pdo
+      - php-soap
+      - php-json
+      - php-bcmath
+      - php-intl
+      - php-xml
+      - php-pdo
