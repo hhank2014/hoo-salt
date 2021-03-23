@@ -1,3 +1,6 @@
 include:
-  - init.timezone
   - init.packages
+  - init.selinux
+  - init.sysctl
+  - init.packages
+#  - init.timezone
