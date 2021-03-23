@@ -27,9 +27,9 @@ php_install:
       - php-mysqlnd
       - php-pecl-mcrypt
       - php-pecl-redis5
-	    - php-soap
-	    - php-json
-	    - php-bcmath
-	    - php-intl
-	    - php-xml
-	    - php-pdo
+	  - php-soap
+	  - php-json
+	  - php-bcmath
+	  - php-intl
+	  - php-xml
+	  - php-pdo
