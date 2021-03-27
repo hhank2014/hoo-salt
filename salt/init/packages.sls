@@ -14,3 +14,4 @@ packages_install:
       - net-tools
       - mtr
       - bc
+      - net-tools
