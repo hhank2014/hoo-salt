@@ -33,3 +33,4 @@ php_install:
       - php-intl
       - php-xml
       - php-pdo
+      - php-pecl-zip
